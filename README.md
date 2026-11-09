@@ -4,7 +4,7 @@
 
 # 👋✨ Hi, I'm Jonathan De La Cruz ✨👋
 
-I am starting to contribute more and care about my personal projects now.
+I am starting to contribute more and care about my personal projects now. I like art and video games, might build something of that.
 
 🇲🇽 Mexico
 
