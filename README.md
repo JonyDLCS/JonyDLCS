@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bannerGit.jpg" alt="Jonathan De La Cruz" width="100%" />
+<img src="bannerGit.jpg" alt="Jonathan" width="100%" />
 
 # 👋✨ Hi, I'm Jonathan De La Cruz ✨👋
 
