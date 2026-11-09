@@ -1,29 +1,28 @@
-# Jonathan De La Cruz
+<div align="center">
 
-Full-stack software engineer in Hermosillo, Mexico.
-I build production web apps end to end: React and Next.js on the front,
-Python APIs and data pipelines on the back, deployed on Azure and AWS.
+<img src="bannerGit.jpg" alt="Jonathan De La Cruz" width="100%" />
 
-[LinkedIn](https://linkedin.com/in/jonydlcs)
+# 👋✨ Hi, I'm Jonathan De La Cruz ✨👋
 
-## What I work with
+I am starting to contribute more and care about my personal projects now.
 
-`TypeScript` `React` `Next.js` `Python` `Flask` `SQL` `MongoDB` `Docker` `Azure` `AWS`
+🇲🇽 Mexico
 
-## Selected work
+### 🛠️ Tools
 
-- **Data-quality platform** — primary engineer on a production app
-  (React, Next.js, TypeScript, Flask, MongoDB, PySpark).
-  Migrated it from a single VM to Azure Container Apps and Databricks,
-  and added natural-language-to-SQL with Azure OpenAI.
-- **[Ecommerce](https://github.com/JonyDLCS/ecommerce)** — Next.js store
-  with Sanity and Stripe. [Live demo](https://ecommerce-nine-sand.vercel.app)
-- **[Mini-Pascal compiler](https://github.com/JonyDLCS/Mini-Pascal_Compiler)** —
-  C# compiler from lexing through x86 assembly generation.
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-## Background
+<br>
 
-Software Engineer at Coforge (2024–present).
-B.S. Computer Systems Engineering, Instituto Tecnológico de Hermosillo,
-specialization in Data Science.
-[Microsoft DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/es-es/users/jonathandelacruz/credentials/ee51215007d758a7).
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonydlcs)
+
+</div>
