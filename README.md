@@ -2,7 +2,7 @@
 
 <img src="bannerGit.jpg" alt="Jonathan" width="100%" />
 
-# 👋✨ Hi, I'm Jonathan De La Cruz ✨👋
+# 👋✨ Hi, I'm Jonathan ✨👋
 
 I am starting to contribute more and care about my personal projects now. I like art and video games, might build something of that.
 
